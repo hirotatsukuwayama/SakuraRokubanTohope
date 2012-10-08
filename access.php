@@ -1,2 +1,2 @@
-<? php
-eco 'access';
+<?php
+echo 'access';

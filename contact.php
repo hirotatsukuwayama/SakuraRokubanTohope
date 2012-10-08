@@ -1,2 +1,2 @@
-<? php
-echo 'contact!'
+<?php
+echo 'contact!';
