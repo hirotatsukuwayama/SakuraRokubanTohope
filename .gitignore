@@ -3,3 +3,5 @@ README.md
 /.settings
 /.buildpath
 /.gitmodules
+/shared
+/.gitignore
