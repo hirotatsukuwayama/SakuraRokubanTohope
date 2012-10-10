@@ -2,7 +2,7 @@
 <head>
 <title>
 test git
-
+修正テストテキスト
 </title>
 </head>
 <body>
